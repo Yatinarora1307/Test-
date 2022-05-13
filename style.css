@@ -1,0 +1,14 @@
+*{
+top:0;
+right:0;
+box-sizing: border-box;
+}
+#popupForm{
+    border:2px solid black;
+    position: absolute;
+    z-index: 1;
+    width:17rem;
+    height:15rem;
+    text-align: center;
+    background-color: black;
+}
